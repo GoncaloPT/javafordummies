@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="core-servlets-joao" />
+        <module name="javafordummies" />
       </profile>
     </annotationProcessing>
   </component>

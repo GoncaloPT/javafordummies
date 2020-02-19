@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6b4ec14-8098-49ac-a0b6-eda42f90d4a2" name="Default Changelist" comment="" />
+    <list default="true" id="b6b4ec14-8098-49ac-a0b6-eda42f90d4a2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/javafordummies.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RandomNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/hundredrandomnumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/packagetest/ArraySumtest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/packagetest/ArraySumtest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/packagetest/LoopTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/packagetest/LoopTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ArrayStringtest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ArrayStringtest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Arraynumbertest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Arraynumbertest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/FlipCoinsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/FlipCoinsTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/HelloWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Randomdoubletest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Randomdoubletest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ShowTwoArgs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ShowTwoArgs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/StringMatching.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StringMatching.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/packagetest/ArraySumtest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/packagetest/ArraySumtest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/packagetest/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/packagetest/HelloWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/packagetest/LoopTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/packagetest/LoopTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +35,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,18 +46,25 @@
     </option>
   </component>
   <component name="ProjectId" id="1XwMsMC1NlTkMxfaJC1BpQoZUOr" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.FlipCoinsTest">
+  <component name="RunManager" selected="Application.RandomNumbers">
     <configuration name="ArraySum" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="coreservlets.ArraySum" />
       <module name="core-servlets-joao" />
@@ -49,7 +80,7 @@
     </configuration>
     <configuration name="ArraySumtest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="packagetest.ArraySumtest" />
-      <module name="core-servlets-joao" />
+      <module name="javafordummies" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="packagetest.*" />
@@ -60,23 +91,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlipCoins" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FlipCoins" />
-      <module name="core-servlets-joao" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FlipCoinsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FlipCoinsTest" />
-      <module name="core-servlets-joao" />
+    <configuration name="Fourrandom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fourrandom" />
+      <module name="javafordummies" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="LoopTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="packagetest.LoopTest" />
-      <module name="core-servlets-joao" />
+      <module name="javafordummies" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="packagetest.*" />
@@ -87,22 +111,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringMatching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringMatching" />
-      <module name="core-servlets-joao" />
+    <configuration name="RandomNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RandomNumbers" />
+      <module name="javafordummies" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hundredrandomnumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hundredrandomnumbers" />
+      <module name="javafordummies" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FlipCoinsTest" />
-        <item itemvalue="Application.FlipCoins" />
-        <item itemvalue="Application.StringMatching" />
-        <item itemvalue="Application.ArraySumtest" />
+        <item itemvalue="Application.RandomNumbers" />
+        <item itemvalue="Application.hundredrandomnumbers" />
         <item itemvalue="Application.LoopTest" />
+        <item itemvalue="Application.Fourrandomdoubles" />
+        <item itemvalue="Application.ArraySumtest" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -114,27 +148,62 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="557" y="162" key="#LoopTest" timestamp="1582042793690">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="557" y="162" key="#LoopTest/0.0.1680.1010@0.0.1680.1010" timestamp="1582042793690" />
     <state x="261" y="0" key="#Project_Structure" timestamp="1581954181438">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="261" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1581954181438" />
-    <state width="804" height="245" key="GridCell.Tab.0.bottom" timestamp="1581982021463">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="294" y="159" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582049699917">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="294" y="159" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1582049699917" />
+    <state x="691" y="393" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1582042170768">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="691" y="393" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1582042170768" />
+    <state x="415" y="98" key="CommitChangelistDialog2" timestamp="1582121960761">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="415" y="98" key="CommitChangelistDialog2/0.0.1680.1010@0.0.1680.1010" timestamp="1582121960761" />
+    <state x="620" y="259" key="FileChooserDialogImpl" timestamp="1582057276734">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="620" y="259" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1582057276734" />
+    <state width="1636" height="267" key="GridCell.Tab.0.bottom" timestamp="1582121878200">
+      <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state width="804" height="245" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581982021463" />
-    <state width="804" height="245" key="GridCell.Tab.0.center" timestamp="1581982021463">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1636" height="267" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1582121878200" />
+    <state width="1636" height="267" key="GridCell.Tab.0.center" timestamp="1582121878200">
+      <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state width="804" height="245" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581982021463" />
-    <state width="804" height="245" key="GridCell.Tab.0.left" timestamp="1581982021463">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1636" height="267" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1582121878200" />
+    <state width="1636" height="267" key="GridCell.Tab.0.left" timestamp="1582121878199">
+      <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state width="804" height="245" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581982021463" />
-    <state width="804" height="245" key="GridCell.Tab.0.right" timestamp="1581982021463">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1636" height="267" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1582121878199" />
+    <state width="1636" height="267" key="GridCell.Tab.0.right" timestamp="1582121878200">
+      <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state width="804" height="245" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581982021463" />
+    <state width="1636" height="267" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1582121878200" />
+    <state x="341" y="136" key="SettingsEditor" timestamp="1582057284043">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="341" y="136" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1582057284043" />
+    <state x="541" y="327" key="com.intellij.ide.util.TipDialog" timestamp="1582042117810">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="541" y="327" key="com.intellij.ide.util.TipDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1582042117810" />
     <state x="775" y="0" width="740" height="824" key="find.popup" timestamp="1581957969337">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
